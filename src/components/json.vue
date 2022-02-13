@@ -166,7 +166,7 @@ li{
   overflow-y: scroll;
   scrollbar-color: #6969dd #e0e0e0;
   scrollbar-width: thin;
-
+  opacity: 95%;
 }
 
 .search{
